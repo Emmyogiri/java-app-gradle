@@ -1,4 +1,4 @@
-<h1>**Building Java Application With Gradle**</h1>
+<h1>Building Java Application With Gradle</h1>
 
 Gradle is a well-known build automation tool that works across a variety of platforms and languages. 
 This project includes establishing a Java application and breaking it down into subprojects in order to modularize it.
